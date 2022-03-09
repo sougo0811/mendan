@@ -1,0 +1,36 @@
+a{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover{
+  color: green;
+}
+
+.test_links{
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.test_link{
+  padding-left: 20px;
+  float: left;
+}
+
+header{
+  height: 100px;
+  width: 100%;
+  background-color: gray;
+}
+
+main{
+  height: 1000px;
+  width: 100%;
+  background-color: whitesmoke;
+}
+
+footer{
+  height: 100px;
+  width: 100%;
+  background-color: gray;
+}
