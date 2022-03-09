@@ -1,0 +1,10 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+pyvenv
+db.sqlite3
+/static
+.DS_Store
+admin.txt
+local_settings.py
