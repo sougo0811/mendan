@@ -5,3 +5,6 @@ pyvenv\Scripts\activate
 
 ## ローカル環境起動
 python manage.py runserver
+
+## リンク
+https://test811.pythonanywhere.com/
